@@ -1,6 +1,6 @@
 # eisenhowertui
 
-This is the eisenhowertui project.
+A simple TUI gonna be made with C++ for visualizing the Eisenhower matrix in terminal.
 
 # Building and installing
 
